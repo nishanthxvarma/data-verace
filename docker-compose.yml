@@ -1,0 +1,6 @@
+# Data Verace - Multi-Service Orchestration Placeholder
+# Full-stack composition will be enabled when backend analysis engine and services are connected.
+version: '3.8'
+
+services:
+  # Placeholder for future backend, Redis, PostgreSQL, and analysis services.
